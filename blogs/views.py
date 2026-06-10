@@ -3,6 +3,7 @@ from django.http import HttpResponse
 from blogs.models import Blog,Category
 from django.db.models import Q
 
+
 # Create your views here.
 def posts_by_category(request,category_id):
     posts = Blog.objects.filter(status='Published',category=category_id)
