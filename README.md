@@ -15,8 +15,6 @@ Live Demo: https://shrutirowlo.pythonanywhere.com
 - HTML, CSS, Bootstrap
 - SQLite
 
-## Screenshots
-(Add screenshots here)
 
 ## How to Run Locally
 ```bash
